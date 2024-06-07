@@ -11,16 +11,4 @@ By assessing the cost-effectiveness of IaaS and PaaS through a real-world case s
 The research builds on existing knowledge of cloud computing and deployment strategies, following a structured approach that combines insights into cloud computing models with a thorough review of current pricing structures, without proposing new solutions.
 
 ### Keywords
-- Cloud Computing
-- Infrastructure as a Service (IaaS)
-- Platform as a Service (PaaS)
-- Deployment Complexities
-- Pricing Models
-- Scalability
-- Virtualization
-- Resource Management
-- Performance Optimization
-- Cost-effectiveness
-- Cloud Service Providers
-- Load Testing
-- Data Analytics
+Cloud Computing, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Deployment Complexities, Pricing Models, Scalability, Virtualization, Resource Management, Performance Optimization, Cost effectiveness, Cloud Service Providers, Load Testing, Data Analytics.
