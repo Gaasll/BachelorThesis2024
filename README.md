@@ -1,4 +1,5 @@
-# Assessing Cloud Cost Effectiveness: A Comparative Analysis of IaaS and PaaS in Cloud Computing
+# Assessing Cloud Cost Effectiveness
+A Comparative Analysis of IaaS and PaaS in Cloud Computing
 
 ## Abstract
 
